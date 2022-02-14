@@ -1,6 +1,8 @@
 # DHlab
 Laboratorio Informatica Umanistica
 *italic*
-**bold*
-#Title
-##ok
+**bold**
+
+# Title
+This is the content.  
+## ok
